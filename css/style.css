@@ -16,7 +16,7 @@ body {
 .container {
     display: flex;
     justify-content: space-evenly;
-    width: 90vw;
+    width: 80vw;
 }
 
 .panel {
